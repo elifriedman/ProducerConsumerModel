@@ -1,4 +1,3 @@
-threadedJavaJourney
+Consumer Producer Model
 ===================
-
-Take a trip on the wonderful world of threading in Java
+A multithreaded Producer Consumer application.
